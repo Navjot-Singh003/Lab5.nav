@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NavjotLab</string>
+    <string name="you_shall_not_pass">you shall not pass</string>
+    <string name="LOGIN_BUTTON">LOGIN</string>
+</resources>
